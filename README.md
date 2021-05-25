@@ -1,0 +1,1 @@
+# Alcohol intake widget
